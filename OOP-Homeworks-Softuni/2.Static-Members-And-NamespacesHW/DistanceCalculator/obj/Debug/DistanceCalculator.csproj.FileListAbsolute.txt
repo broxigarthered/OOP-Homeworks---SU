@@ -1,0 +1,6 @@
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\DistanceCalculator\obj\Debug\DistanceCalculator.csprojResolveAssemblyReference.cache
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\DistanceCalculator\obj\Debug\DistanceCalculator.pdb

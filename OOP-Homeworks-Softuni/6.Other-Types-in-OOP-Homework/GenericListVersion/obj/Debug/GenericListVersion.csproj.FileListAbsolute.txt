@@ -1,0 +1,6 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericListVersion\bin\Debug\GenericListVersion.exe.config
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericListVersion\bin\Debug\GenericListVersion.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericListVersion\bin\Debug\GenericListVersion.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericListVersion\obj\Debug\GenericListVersion.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericListVersion\obj\Debug\GenericListVersion.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericListVersion\obj\Debug\GenericListVersion.pdb

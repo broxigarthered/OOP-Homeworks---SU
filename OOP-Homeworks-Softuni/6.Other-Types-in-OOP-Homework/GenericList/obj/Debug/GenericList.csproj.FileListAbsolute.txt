@@ -1,0 +1,6 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericList\bin\Debug\GenericList.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericList\obj\Debug\GenericList.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\3.Other-Types-in-OOP-Homework\GenericList\obj\Debug\GenericList.pdb

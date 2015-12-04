@@ -1,0 +1,1 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.exe.config

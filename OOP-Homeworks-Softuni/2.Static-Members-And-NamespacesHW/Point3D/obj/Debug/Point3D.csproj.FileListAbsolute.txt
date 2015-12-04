@@ -1,0 +1,1 @@
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\Point3D\bin\Debug\Point3D.exe.config

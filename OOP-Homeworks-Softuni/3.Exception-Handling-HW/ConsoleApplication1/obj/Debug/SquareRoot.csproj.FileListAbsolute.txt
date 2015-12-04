@@ -1,0 +1,6 @@
+c:\users\ники\documents\visual studio 2015\Projects\ExceptionHandlingHW\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ExceptionHandlingHW\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ExceptionHandlingHW\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ExceptionHandlingHW\ConsoleApplication1\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ExceptionHandlingHW\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\ExceptionHandlingHW\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

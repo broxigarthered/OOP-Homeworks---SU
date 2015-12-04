@@ -1,0 +1,6 @@
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\InheritanceAndAbstractionHW\CompanyHierarcy\bin\Debug\CompanyHierarcy.exe.config
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\InheritanceAndAbstractionHW\CompanyHierarcy\obj\Debug\CompanyHierarcy.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\InheritanceAndAbstractionHW\CompanyHierarcy\bin\Debug\CompanyHierarcy.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\InheritanceAndAbstractionHW\CompanyHierarcy\bin\Debug\CompanyHierarcy.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\InheritanceAndAbstractionHW\CompanyHierarcy\obj\Debug\CompanyHierarcy.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\InheritanceAndAbstractionHW\CompanyHierarcy\obj\Debug\CompanyHierarcy.pdb

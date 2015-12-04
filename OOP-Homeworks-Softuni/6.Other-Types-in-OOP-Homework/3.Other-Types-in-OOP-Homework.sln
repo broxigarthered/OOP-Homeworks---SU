@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticGPS", "ConsoleApplication1\GalacticGPS.csproj", "{8F0DD54B-0166-4FE5-B4E4-00656EA5271C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculator", "FractionCalculator\FractionCalculator.csproj", "{A8577509-F5DB-49C0-88C0-18DFCFE314F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{AC81BDA9-F10B-45D9-9513-4B71B1407A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericListVersion", "GenericListVersion\GenericListVersion.csproj", "{4079C449-DFE4-48E6-98B1-E783F07CC728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0DD54B-0166-4FE5-B4E4-00656EA5271C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0DD54B-0166-4FE5-B4E4-00656EA5271C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0DD54B-0166-4FE5-B4E4-00656EA5271C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0DD54B-0166-4FE5-B4E4-00656EA5271C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8577509-F5DB-49C0-88C0-18DFCFE314F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8577509-F5DB-49C0-88C0-18DFCFE314F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8577509-F5DB-49C0-88C0-18DFCFE314F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8577509-F5DB-49C0-88C0-18DFCFE314F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC81BDA9-F10B-45D9-9513-4B71B1407A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC81BDA9-F10B-45D9-9513-4B71B1407A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC81BDA9-F10B-45D9-9513-4B71B1407A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC81BDA9-F10B-45D9-9513-4B71B1407A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4079C449-DFE4-48E6-98B1-E783F07CC728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4079C449-DFE4-48E6-98B1-E783F07CC728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4079C449-DFE4-48E6-98B1-E783F07CC728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4079C449-DFE4-48E6-98B1-E783F07CC728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

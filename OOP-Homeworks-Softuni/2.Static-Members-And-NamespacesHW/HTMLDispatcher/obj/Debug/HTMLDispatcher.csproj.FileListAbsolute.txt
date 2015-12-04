@@ -1,0 +1,6 @@
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe.config
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\HTMLDispatcher\obj\Debug\HTMLDispatcher.csprojResolveAssemblyReference.cache
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\HTMLDispatcher\bin\Debug\HTMLDispatcher.pdb
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\HTMLDispatcher\obj\Debug\HTMLDispatcher.exe
+c:\users\ники\documents\visual studio 2015\Projects\StaticMembersAndNamespacesHW\HTMLDispatcher\obj\Debug\HTMLDispatcher.pdb
