@@ -1,0 +1,6 @@
+c:\users\ники\documents\visual studio 2015\Projects\EmpireiVolume2\EmpireiVolume2\bin\Debug\EmpireiVolume2.exe.config
+c:\users\ники\documents\visual studio 2015\Projects\EmpireiVolume2\EmpireiVolume2\bin\Debug\EmpireiVolume2.exe
+c:\users\ники\documents\visual studio 2015\Projects\EmpireiVolume2\EmpireiVolume2\bin\Debug\EmpireiVolume2.pdb
+c:\users\ники\documents\visual studio 2015\Projects\EmpireiVolume2\EmpireiVolume2\obj\Debug\EmpireiVolume2.csprojResolveAssemblyReference.cache
+c:\users\ники\documents\visual studio 2015\Projects\EmpireiVolume2\EmpireiVolume2\obj\Debug\EmpireiVolume2.exe
+c:\users\ники\documents\visual studio 2015\Projects\EmpireiVolume2\EmpireiVolume2\obj\Debug\EmpireiVolume2.pdb
