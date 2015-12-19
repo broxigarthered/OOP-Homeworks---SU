@@ -1,0 +1,6 @@
+C:\Users\Ники\Documents\visual studio 2015\Projects\udrii2\EmpiresVolume3\bin\Debug\EmpiresVolume3.exe.config
+C:\Users\Ники\Documents\visual studio 2015\Projects\udrii2\EmpiresVolume3\bin\Debug\EmpiresVolume3.exe
+C:\Users\Ники\Documents\visual studio 2015\Projects\udrii2\EmpiresVolume3\bin\Debug\EmpiresVolume3.pdb
+C:\Users\Ники\Documents\visual studio 2015\Projects\udrii2\EmpiresVolume3\obj\Debug\EmpiresVolume4Test.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\visual studio 2015\Projects\udrii2\EmpiresVolume3\obj\Debug\EmpiresVolume3.exe
+C:\Users\Ники\Documents\visual studio 2015\Projects\udrii2\EmpiresVolume3\obj\Debug\EmpiresVolume3.pdb
