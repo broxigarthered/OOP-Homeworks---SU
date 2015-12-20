@@ -1,0 +1,9 @@
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\Test2\bin\Debug\Test1.exe.config
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\Test2\bin\Debug\Test1.exe
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\Test2\bin\Debug\Test1.pdb
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test1.exe
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test1.pdb
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\ISIS OOP Exam 21.12.2015\bin\Debug\Test1.exe.config
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\ISIS OOP Exam 21.12.2015\obj\Debug\Test1.exe
+C:\Users\Ники\Documents\visual studio 2015\Projects\Test2\ISIS OOP Exam 21.12.2015\obj\Debug\Test1.pdb
