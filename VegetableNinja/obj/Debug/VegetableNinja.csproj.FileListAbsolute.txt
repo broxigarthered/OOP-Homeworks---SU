@@ -1,0 +1,9 @@
+C:\Users\Ники\Documents\visual studio 2015\Projects\07.03Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ники\Documents\visual studio 2015\Projects\07.03Exam\ConsoleApplication1\obj\Debug\VegetableNinja.csprojResolveAssemblyReference.cache
+C:\Users\Ники\Documents\visual studio 2015\Projects\07.03Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ники\Documents\visual studio 2015\Projects\07.03Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ники\Documents\visual studio 2015\Projects\07.03Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ники\Documents\visual studio 2015\Projects\07.03Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\07.03Exam\VegetableNinja\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\07.03Exam\VegetableNinja\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ники\Documents\Visual Studio 2015\Projects\07.03Exam\VegetableNinja\obj\Debug\ConsoleApplication1.pdb
